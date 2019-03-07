@@ -345,6 +345,12 @@
           "version": "3.3.0",
           "reason": "https://github.com/visionmedia/supertest/issues/534"
         }
+      },
+      "react-dnd": {
+        "7.1.0": {
+          "version": "7.0.2",
+          "reason": "https://github.com/frontend-collective/react-sortable-tree/issues/463"
+        }
       }
     }
   }
